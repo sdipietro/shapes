@@ -1,7 +1,8 @@
 class Circle
 
-    def initiatlize(radius)
+    def initiatlize(radius, pos)
         @radius = radius
+        @pos = pos
     end
 
 end
